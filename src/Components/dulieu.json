@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name":"Pacifist rim",
+        "tel": "0983841831",
+        "Permission": 1
+    },
+    {
+        "id": 2,
+        "name":"Iron xu",
+        "tel": "0245687466",
+        "Permission": 2
+    },{
+        "id": 3,
+        "name":"Shisheo rim",
+        "tel": "01234564986",
+        "Permission": 3
+    },{
+        "id": 4,
+        "name":"Pacifist rim",
+        "tel": "0908845466",
+        "Permission": 1
+    },{
+        "id": 5,
+        "name":"Pacifist rim",
+        "tel": "0784456462",
+        "Permission": 1
+    },{
+        "id": 6,
+        "name":"Pacifist rim",
+        "tel": "05689798795",
+        "Permission": 1
+    }
+]
